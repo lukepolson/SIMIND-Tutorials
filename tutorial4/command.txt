@@ -1,0 +1,11 @@
+INDEX 19 MUST BE SET TO 3
+
+simind point 208keV_nocoll/fa:04
+simind point 208keV_infinite_res/19:-0.01/fa:04
+simind point 208keV_collana/cc:si-me
+simind point 208keV_collnomovement/cc:si-me/53:1
+simind point 208keV_collmovement/cc:si-me/53:1/59:1
+
+simind point 440keV_collana/01:440/cc:si-me
+simind point 440keV_collnomovement/01:440/cc:si-me/53:1
+simind point 440keV_collmovement/01:440/cc:si-me/53:1/59:1
